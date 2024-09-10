@@ -26,3 +26,6 @@
 /Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/obj/Debug/net8.0/MyShop.pdb
 /Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/obj/Debug/net8.0/MyShop.genruntimeconfig.cache
 /Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/obj/Debug/net8.0/ref/MyShop.dll
+/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/bin/Debug/net8.0/MyShop.staticwebassets.runtime.json
+/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/obj/Debug/net8.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/obj/Debug/net8.0/scopedcss/projectbundle/MyShop.bundle.scp.css

@@ -25,3 +25,15 @@ build_metadata.AdditionalFiles.CssScope =
 [/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/Views/Item/Table.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9UYWJsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-axnuj3c1xz
