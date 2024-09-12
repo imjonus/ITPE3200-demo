@@ -5,6 +5,46 @@
       "PackagePath": "staticwebassets/MyShop.bundle.scp.css"
     },
     {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/images/chickenleg.jpg",
+      "PackagePath": "staticwebassets/images/chickenleg.jpg"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/images/cider.jpg",
+      "PackagePath": "staticwebassets/images/cider.jpg"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/images/coke.jpg",
+      "PackagePath": "staticwebassets/images/coke.jpg"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/images/fishandchips.jpg",
+      "PackagePath": "staticwebassets/images/fishandchips.jpg"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/images/frenchfries.jpg",
+      "PackagePath": "staticwebassets/images/frenchfries.jpg"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/images/pizza.jpg",
+      "PackagePath": "staticwebassets/images/pizza.jpg"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/images/ribs.jpg",
+      "PackagePath": "staticwebassets/images/ribs.jpg"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/images/tacos.jpg",
+      "PackagePath": "staticwebassets/images/tacos.jpg"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/js/bootstrap.js",
+      "PackagePath": "staticwebassets/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/wwwroot/js/jquery.min.js",
+      "PackagePath": "staticwebassets/js/jquery.min.js"
+    },
+    {
       "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyShop.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
