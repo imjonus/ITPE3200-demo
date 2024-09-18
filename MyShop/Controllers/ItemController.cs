@@ -20,20 +20,14 @@ public class ItemController : Controller
         return View(itemsViewModel);
     }
 
-    //public IActionResult Table()
-    //{
-    //    var items = GetItems();
-    //    ViewBag.CurrentViewName = "Table";
-    //    return View(items);
-    //}
-
-    //public IActionResult Grid()
-    //{
-    //    var items = GetItems();
-    //    ViewBag.CurrentViewName = "Grid";
-    //    return View(items);
-    //}
-
+     public IActionResult Details(int id)
+    {
+        var items = GetItems();
+        var item = items.FirstOrDefault(i => i.ItemId == id);
+        if (item == null)
+            return NotFound();
+        return View(item);
+    }
     public List<Item> GetItems()
     {
         var items = new List<Item>();
