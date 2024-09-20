@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/MyShop.csproj": {}
+    "/Users/jonas/Documents/GitHub/ADTS2310-oblig1/ITPE3200-demo/MyShop/MyShop.csproj": {}
   },
   "projects": {
-    "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/MyShop.csproj": {
+    "/Users/jonas/Documents/GitHub/ADTS2310-oblig1/ITPE3200-demo/MyShop/MyShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/MyShop.csproj",
+        "projectUniqueName": "/Users/jonas/Documents/GitHub/ADTS2310-oblig1/ITPE3200-demo/MyShop/MyShop.csproj",
         "projectName": "MyShop",
-        "projectPath": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/MyShop.csproj",
+        "projectPath": "/Users/jonas/Documents/GitHub/ADTS2310-oblig1/ITPE3200-demo/MyShop/MyShop.csproj",
         "packagesPath": "/Users/jonas/.nuget/packages/",
-        "outputPath": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/obj/",
+        "outputPath": "/Users/jonas/Documents/GitHub/ADTS2310-oblig1/ITPE3200-demo/MyShop/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jonas/.nuget/NuGet/NuGet.Config"

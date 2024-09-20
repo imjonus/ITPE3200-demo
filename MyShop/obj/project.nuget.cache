@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pvbY3f3Yxk8=",
+  "dgSpecHash": "eKeJlVhhoB0=",
   "success": true,
-  "projectFilePath": "/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/MyShop.csproj",
+  "projectFilePath": "/Users/jonas/Documents/GitHub/ADTS2310-oblig1/ITPE3200-demo/MyShop/MyShop.csproj",
   "expectedPackageFiles": [
     "/Users/jonas/.nuget/packages/microsoft.data.sqlite.core/8.0.8/microsoft.data.sqlite.core.8.0.8.nupkg.sha512",
     "/Users/jonas/.nuget/packages/microsoft.entityframeworkcore/8.0.8/microsoft.entityframeworkcore.8.0.8.nupkg.sha512",
