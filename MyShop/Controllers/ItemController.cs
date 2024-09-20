@@ -54,6 +54,17 @@ public class ItemController : Controller
     return View(item);
     }
 
+    [HttpGet]
+    public IActionResult Update(int id)
+    {
+        var item = _itemDbContext.Items.Find(id);
+        if (item == null)
+        {
+            return NotFound();
+        }
+        return View(item);
+    }
+
     [HttpPost]
     public IActionResult Update(Item item) {
         if(ModelState.IsValid) {
@@ -64,14 +75,27 @@ public class ItemController : Controller
         return View(item);
     }
 
+    [HttpPost]
+    public IActionResult DeleteConfirmed(int id)
+    {
+        var item = _itemDbContext.Items.Find(id);
+        if (item == null)
+        {
+            return NotFound();
+        }
+        _itemDbContext.Items.Remove(item);
+        _itemDbContext.SaveChanges();
+        return RedirectToAction(nameof(Table));
+    }
+
     [HttpGet]
     public IActionResult Delete(int id) {
-        if(ModelState.IsValid) {
         var item = _itemDbContext.Items.Find(id);
+        if(ModelState.IsValid) {
         if(item == null) {
             return NotFound();
         }
-        return View(item);
-        }
+    }
+    return View(item);
     }
 }
