@@ -53,4 +53,25 @@ public class ItemController : Controller
     }
     return View(item);
     }
+
+    [HttpPost]
+    public IActionResult Update(Item item) {
+        if(ModelState.IsValid) {
+            _itemDbContext.Items.Update(item);
+            _itemDbContext.SaveChanges();
+            return RedirectToAction(nameof(Table));
+        }
+        return View(item);
+    }
+
+    [HttpGet]
+    public IActionResult Delete(int id) {
+        if(ModelState.IsValid) {
+        var item = _itemDbContext.Items.Find(id);
+        if(item == null) {
+            return NotFound();
+        }
+        return View(item);
+        }
+    }
 }

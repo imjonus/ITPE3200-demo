@@ -26,6 +26,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/Views/Item/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/jonas/VisualStudio/ITPE3200/ITPE3200-demo/MyShop/Views/Item/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSXRlbS9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
