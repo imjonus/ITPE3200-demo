@@ -1,6 +1,7 @@
 using MyShop.Models;
 
-namespace MyShop.ViewModels {
+namespace MyShop.ViewModels
+{
 
     public class ItemsViewModel
     {

@@ -10,4 +10,4 @@ namespace MyShop.Models
         public virtual Item Item { get; set; } = default!;
         public virtual Order Order { get; set; } = default!;
     }
-}   
+}
