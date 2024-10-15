@@ -2,6 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Myshop.DAL;
 using MyShop.DAL;
 
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllersWithViews();
@@ -12,6 +13,7 @@ builder.Services.AddDbContext<ItemDbContext>(options =>
 });
 
 builder.Services.AddScoped<IItemRepository, ItemRepository>();
+
 
 var app = builder.Build();
 
